@@ -2,10 +2,7 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  color: red;
-}
-
+a:hover,
 a:active {
   color: red;
 }
